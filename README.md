@@ -1,6 +1,7 @@
 Tutorial Firefox:
 Opção 1 (Recomendado) - Baixe no site oficial da mozilla: https://addons.mozilla.org/en-US/firefox/addon/habblive-adblock/
-Opçãp 2 -
+
+Opção 2 -
 
     Faça clone do repositório ou baixa o release. 
     Dentro do firefox, na barra de endereços, digite:
