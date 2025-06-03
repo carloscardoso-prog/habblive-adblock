@@ -1,4 +1,6 @@
 Tutorial Firefox:
+Opção 1 (Recomendado) - Baixe no site oficial da mozilla: https://addons.mozilla.org/en-US/firefox/addon/habblive-adblock/
+Opçãp 2 -
 
     Faça clone do repositório ou baixa o release. 
     Dentro do firefox, na barra de endereços, digite:
@@ -11,6 +13,7 @@ Tutorial Firefox:
     Extensões carregadas assim são temporárias, e serão removidas quando você fechar o navegador. 
 
 Tutorial Chrome:
+Opção 1 -
 
     Baixe a pasta contendo os arquivos da extensão, incluindo o manifest.json.
     Caso tenha recebido um arquivo .zip, extraia o conteúdo.
@@ -24,4 +27,7 @@ Tutorial Chrome:
     Extensões carregadas assim são temporárias, e serão removidas quando você fechar o navegador. 
     
 
-Da mesma forma que a extensão no firefox é temporária, no chrome ela também é, e por ser uma modificação "não autorizada" pelos criadores do site, não é possível adicionar na loja de Addons da Mozilla ou do Chrome.
+Essa extensão é temporária no Chrome, sendo necessário adicionar ela manualmente toda vez que fechar o navegador.
+Não é possível adicionar na loja de extensões por que a Google cobra 5 dólares.
+
+No Firefox é de graça.
